@@ -17,7 +17,7 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <errno.h>
-#include <linux/limits.h>
+#include <limits.h>
 
 /** FUNCTIONS Handler **/
 
