@@ -1,14 +1,13 @@
 #ifndef HEADER_H
 #define HEADER_H
 
-/**Used MACROS **/
-#define PRINT(c) (write(STDERR_FILENO, c, _strlen(c))))
+/***Used MACROS ***/
+#define PRINT(c) (write(STDERR_FILENO, c, _strlen(c)))
 #define BUFSIZE 10240
 #define DELIMITER " \a\r\n\t"
 
-
 /*** Used Standardd Libraries ***/
-#include <stdio.h> 
+#include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
 #include <string.h>
@@ -19,7 +18,6 @@
 #include <fcntl.h>
 #include <errno.h>
 #include <linux/limits.h>
-
 
 /** FUNCTIONS Handler **/
 
