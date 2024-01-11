@@ -15,9 +15,10 @@
 #include <sys/wait.h>
 #include <stdlib.h>
 #include <signal.h>
+#include <sys/stat.h>
 #include <fcntl.h>
 #include <errno.h>
-#include <linux/limirts.h>
+#include <linux/limits.h>
 
 
 /** FUNCTIONS Handler **/
