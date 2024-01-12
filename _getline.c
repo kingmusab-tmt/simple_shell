@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 
 /**
  * _getline - read input from standard input by user

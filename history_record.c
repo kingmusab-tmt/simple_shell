@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 
 /**
  * history - write file with user inputs

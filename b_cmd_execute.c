@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 
 /**
  * change_dir - Changes directory

@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 
 /**
  * path_cmd -  Search In $PATH for executable command

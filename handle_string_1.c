@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 
 /**
  * _putchar - function that writes the character to stdout

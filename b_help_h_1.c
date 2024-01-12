@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 
 /**
  * help_all - Displays all possible builtin shellby commands
